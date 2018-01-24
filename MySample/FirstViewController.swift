@@ -9,7 +9,10 @@
 import UIKit
 
 class FirstViewController: UIViewController {
-
+var Check = String()
+var Check1 = String()
+var Check2 = String()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -25,6 +28,7 @@ class FirstViewController: UIViewController {
         return UIStatusBarStyle.lightContent
         //return UIStatusBarStyle.default   // Make dark again
     }
+    
     /*
     // MARK: - Navigation
 
