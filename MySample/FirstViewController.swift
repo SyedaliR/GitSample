@@ -13,8 +13,9 @@ var Check = String()
 var Check1 = String()
 var Check3 = String()
     
-    var Check5 = String()
-    var Check6 = String()
+    var Check7 = String()
+    var Check8 = String()
+    var Check9 = String()
     
     override func viewDidLoad() {
         super.viewDidLoad()
