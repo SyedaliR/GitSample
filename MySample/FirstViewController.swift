@@ -11,7 +11,8 @@ import UIKit
 class FirstViewController: UIViewController {
 var Check = String()
 var Check1 = String()
-var Check2 = String()
+var Check3 = String()
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
