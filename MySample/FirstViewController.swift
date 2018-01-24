@@ -21,7 +21,10 @@ class FirstViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-
+    override var preferredStatusBarStyle : UIStatusBarStyle {
+        return UIStatusBarStyle.lightContent
+        //return UIStatusBarStyle.default   // Make dark again
+    }
     /*
     // MARK: - Navigation
 
