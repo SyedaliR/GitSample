@@ -1,43 +1,27 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  MySample
 //
-//  Created by PACE on 1/24/18.
+//  Created by Mobile_Pace on 25/01/18.
 //  Copyright © 2018 Mobile_Pace. All rights reserved.
 //
 
 import UIKit
 
-class FirstViewController: UIViewController {
-var Check = String()
-var Check1 = String()
-var Check3 = String()
-    
-    var Check7 = String()
-    var Check8 = String()
-    var Check9 = String()
-    var Check10 = String()
-    
-    
-    var Check11 = String()
-    
-   
+class SecondViewController: UIViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-
+ //*SBRANCH CHANGES
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
     
-    override var preferredStatusBarStyle : UIStatusBarStyle {
-        return UIStatusBarStyle.lightContent
-        //return UIStatusBarStyle.default   // Make dark again
-    }
-    
+
     /*
     // MARK: - Navigation
 
